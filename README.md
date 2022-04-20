@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xavierad
+- 👋 Hi, I’m @xavierad!
 - 👀 I’m interested in Machine/Deep Learning, AI and Web Development!
-- 🌱 I’m currently finishing my Msc. thesis in the field of Deep Learning, applying DNNs to medical images!
+- 🌱 Working a Conversational AI Company, on the NLU branch
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
